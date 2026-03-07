@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Hi, I'm <a href="https://xinaider.vercel.app">Moeefa</a> 🧃</h3>
+    <h3>Hi, I'm <a href="https://xinaider.vercel.app">lxinaider</a> 🌱</h3>
     <p align="center">
       <a href="https://discord.com/channels/@me/482224256730791967"><img width="32" src="https://skillicons.dev/icons?i=discord&theme=light" /></a>
       <a href="https://github.com/Moeefa"><img width="32" src="https://skillicons.dev/icons?i=github&theme=light" /></a>
