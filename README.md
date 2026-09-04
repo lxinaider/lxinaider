@@ -8,9 +8,7 @@
     </p>
     <p>I like building some stuff.</p>
     <br />
-    <p align="left">I’m a developer who fell head over heels for coding. What started as a “let’s see what this does” moment back in 2017 quickly spiraled into a full-blown love affair with programming.
-<br /><br />
-I graduated as a Computer Technician and am now leveling up by studying Computer Engineering at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva). Basically, I spend my days geeking out over new tech, breaking things, and figuring out how to fix them, whether it’s on the front-end, back-end, or somewhere in between.
+    <p align="left">I am a computer engineer student at IFMT, with a passion for technology and software development. I enjoy learning new programming languages and frameworks, and I am always looking for opportunities to improve my skills.
     </p>
     <details align="left">
       <summary>Skills</summary>
